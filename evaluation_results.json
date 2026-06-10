@@ -9,7 +9,7 @@
       "rouge2_f": 0.0,
       "rougeL_f": 0.0952
     },
-    "semantic_similarity": 0.4437
+    "semanticka_slicnost": 0.4437
   },
   {
     "jezik": "HR",
@@ -21,7 +21,7 @@
       "rouge2_f": 0.4444,
       "rougeL_f": 0.6
     },
-    "semantic_similarity": 0.9803
+    "semanticka_slicnost": 0.9803
   },
   {
     "jezik": "HR",
@@ -33,7 +33,7 @@
       "rouge2_f": 0.125,
       "rougeL_f": 0.2222
     },
-    "semantic_similarity": 0.4234
+    "semanticka_slicnost": 0.4234
   },
   {
     "jezik": "HR",
@@ -45,7 +45,7 @@
       "rouge2_f": 0.3333,
       "rougeL_f": 0.5625
     },
-    "semantic_similarity": 0.9037
+    "semanticka_slicnost": 0.9037
   },
   {
     "jezik": "HR",
@@ -57,7 +57,7 @@
       "rouge2_f": 0.1176,
       "rougeL_f": 0.3158
     },
-    "semantic_similarity": 0.5821
+    "semanticka_slicnost": 0.5821
   },
   {
     "jezik": "HR",
@@ -69,7 +69,7 @@
       "rouge2_f": 0.4571,
       "rougeL_f": 0.5405
     },
-    "semantic_similarity": 0.935
+    "semanticka_slicnost": 0.935
   },
   {
     "jezik": "HR",
@@ -81,7 +81,7 @@
       "rouge2_f": 0.1778,
       "rougeL_f": 0.2128
     },
-    "semantic_similarity": 0.6404
+    "semanticka_slicnost": 0.6404
   },
   {
     "jezik": "HR",
@@ -93,7 +93,7 @@
       "rouge2_f": 0.3721,
       "rougeL_f": 0.6222
     },
-    "semantic_similarity": 0.9182
+    "semanticka_slicnost": 0.9182
   },
   {
     "jezik": "HR",
@@ -105,7 +105,7 @@
       "rouge2_f": 0.4375,
       "rougeL_f": 0.5294
     },
-    "semantic_similarity": 0.8159
+    "semanticka_slicnost": 0.8159
   },
   {
     "jezik": "HR",
@@ -117,7 +117,7 @@
       "rouge2_f": 0.3636,
       "rougeL_f": 0.4615
     },
-    "semantic_similarity": 0.6039
+    "semanticka_slicnost": 0.6039
   },
   {
     "jezik": "EN",
@@ -129,7 +129,7 @@
       "rouge2_f": 0.1786,
       "rougeL_f": 0.1724
     },
-    "semantic_similarity": 0.6592
+    "semanticka_slicnost": 0.6592
   },
   {
     "jezik": "EN",
@@ -141,7 +141,7 @@
       "rouge2_f": 0.25,
       "rougeL_f": 0.3333
     },
-    "semantic_similarity": 0.8663
+    "semanticka_slicnost": 0.8663
   },
   {
     "jezik": "EN",
@@ -153,7 +153,7 @@
       "rouge2_f": 0.2692,
       "rougeL_f": 0.2963
     },
-    "semantic_similarity": 0.8893
+    "semanticka_slicnost": 0.8893
   },
   {
     "jezik": "EN",
@@ -165,7 +165,7 @@
       "rouge2_f": 0.1774,
       "rougeL_f": 0.2222
     },
-    "semantic_similarity": 0.8847
+    "semanticka_slicnost": 0.8847
   },
   {
     "jezik": "EN",
@@ -177,7 +177,7 @@
       "rouge2_f": 0.1418,
       "rougeL_f": 0.3077
     },
-    "semantic_similarity": 0.79
+    "semanticka_slicnost": 0.79
   },
   {
     "jezik": "EN",
@@ -189,7 +189,7 @@
       "rouge2_f": 0.5556,
       "rougeL_f": 0.6
     },
-    "semantic_similarity": 0.9937
+    "semanticka_slicnost": 0.9937
   },
   {
     "jezik": "EN",
@@ -201,7 +201,7 @@
       "rouge2_f": 0.2069,
       "rougeL_f": 0.3871
     },
-    "semantic_similarity": 0.8036
+    "semanticka_slicnost": 0.8036
   },
   {
     "jezik": "EN",
@@ -213,7 +213,7 @@
       "rouge2_f": 0.4074,
       "rougeL_f": 0.4286
     },
-    "semantic_similarity": 0.9327
+    "semanticka_slicnost": 0.9327
   },
   {
     "jezik": "EN",
@@ -225,7 +225,7 @@
       "rouge2_f": 0.4444,
       "rougeL_f": 0.4828
     },
-    "semantic_similarity": 0.9143
+    "semanticka_slicnost": 0.9143
   },
   {
     "jezik": "EN",
@@ -237,6 +237,6 @@
       "rouge2_f": 0.4737,
       "rougeL_f": 0.45
     },
-    "semantic_similarity": 0.9286
+    "semanticka_slicnost": 0.9286
   }
 ]

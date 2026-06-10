@@ -162,10 +162,10 @@ def pokreni_evaluaciju(output_file: str = "evaluation_results.json"):
             "ocekivani_odgovor": test["ocekivani_odgovor"],
             "chatbot_odgovor": chatbot_odgovor,
             "rouge_scores": rouge,
-            "semantic_similarity": sem,
+            "semanticka_slicnost": sem,
         }
         rezultati.append(rezultat)
-        print(f"  Sem: {sem:.4f} | ROUGE-L: {rouge['rougeL_f']:.4f}")
+        print(f"  ROUGE-L: {rouge['rougeL_f']:.4f} | Sem. sličnost: {sem:.4f}")
 
     with open(output_file, "w", encoding="utf-8") as f:
         json.dump(rezultati, f, ensure_ascii=False, indent=2)
