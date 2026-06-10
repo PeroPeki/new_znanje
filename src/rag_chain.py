@@ -17,13 +17,14 @@ CHROMA_DIR = "chroma_db/"
 EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
 # Mistral instruct format — bez <s> jer ga llama_cpp dodaje automatski
-VW_PROMPT_TEMPLATE = """[INST] Odgovori na pitanje koristeći SAMO sljedeći kontekst. Kontekst sadrži tehničke podatke o Volkswagen vozilima. Uvijek odgovaraj na hrvatskom jeziku.
+VW_PROMPT_TEMPLATE = """[INST] Odgovori na pitanje koristeći ISKLJUČIVO podatke iz konteksta ispod. Kontekst sadrži tehničke podatke o Volkswagen vozilima.
 
 Pravila:
-- Navedi SVE relevantne vrijednosti iz konteksta (npr. i osnovnu i maksimalnu vrijednost).
-- Ne dodaj prefiks poput "Odgovor:" — odmah daj odgovor.
-- Ako informacija nije u kontekstu, reci točno: "Nemam tu informaciju."
-- Nemoj pretpostavljati ni izmišljati vrijednosti koje nisu u kontekstu.
+- Pročitaj SVE dijelove konteksta — odgovor može biti u bilo kojem od njih.
+- Navedi SVE vrijednosti koje su doslovno napisane u kontekstu (npr. sve varijante dosega, sve verzije motora).
+- Nikad ne dodavaj vrijednosti (kW, KS, km, litre...) koje NISU eksplicitno navedene u kontekstu — ne računaj, ne pretpostavljaj, ne koristi opće znanje.
+- Daj odgovor direktno na hrvatskom — bez prefiksa "Odgovor:" ili sličnog.
+- Ako tražena informacija nije u kontekstu, reci samo: "Nemam tu informaciju."
 
 Kontekst:
 {context}
@@ -57,7 +58,7 @@ def _detect_source_filter(query: str):
     return None
 
 
-def load_rag_chain(retriever_k: int = 5):
+def load_rag_chain(retriever_k: int = 10):
     embeddings = HuggingFaceEmbeddings(
         model_name=EMBEDDING_MODEL,
         model_kwargs={"device": "cpu"},
@@ -94,22 +95,36 @@ def load_rag_chain(retriever_k: int = 5):
         """Ciljano pretraživanje — filtrira po modelu ako se prepozna u upitu."""
         source_filter = _detect_source_filter(query)
         if source_filter:
-            # Ciljano: pretraži samo relevantne izvore za prepoznati model
-            targeted_retriever = vectorstore.as_retriever(
+            # Semantički retriever filtriran po izvoru
+            targeted_semantic = vectorstore.as_retriever(
                 search_type="mmr",
                 search_kwargs={
-                    "k": retriever_k + 3,
-                    "fetch_k": 40,
+                    "k": retriever_k + 5,
+                    "fetch_k": 50,
                     "lambda_mult": 0.6,
                     "filter": {"source_file": {"$in": source_filter}},
                 },
             )
-            docs = targeted_retriever.invoke(query)
+            # BM25 filtriran po izvoru (keyword matching za tehničke pojmove)
+            filtered_bm25_docs = [
+                d for d in bm25_docs
+                if d.metadata.get("source_file", "") in source_filter
+            ]
+            targeted_bm25 = BM25Retriever.from_documents(filtered_bm25_docs, k=retriever_k + 3)
+            targeted_ensemble = EnsembleRetriever(
+                retrievers=[targeted_bm25, targeted_semantic],
+                weights=[0.5, 0.5],
+            )
+            docs = targeted_ensemble.invoke(query)
         else:
-            # Opće pitanje: koristi ensemble hibridni retriever
             docs = ensemble_retriever.invoke(query)
-        # Ograniči kontekst na prvih retriever_k + 2 chunova
-        return docs[: retriever_k + 2]
+        docs = docs[: retriever_k + 4]
+        # TXT ispred PDF-ova; unutar iste ekstenzije duljii chunkovi (više info) dolaze prvi
+        docs.sort(key=lambda d: (
+            0 if d.metadata.get("source_file", "").endswith(".txt") else 1,
+            -len(d.page_content),
+        ))
+        return docs
 
     retriever_runnable = RunnableLambda(smart_retrieve)
 
@@ -136,10 +151,19 @@ def load_rag_chain(retriever_k: int = 5):
     return chain, retriever_runnable
 
 
+def _clean_odgovor(tekst: str) -> str:
+    """Uklanja LLM artefakte: prefiks 'Odgovor:', višestruke razmake, stray zagrade."""
+    import re
+    tekst = tekst.strip()
+    tekst = re.sub(r"^(Odgovor|Answer|Odg)\s*:\s*", "", tekst, flags=re.IGNORECASE)
+    tekst = re.sub(r"\)+$", "", tekst).strip()
+    return tekst
+
+
 def query(chain_tuple, pitanje: str) -> dict:
     chain, retriever = chain_tuple
 
-    odgovor = chain.invoke(pitanje)
+    odgovor = _clean_odgovor(chain.invoke(pitanje))
 
     docs = retriever.invoke(pitanje)
     izvori = list(set(

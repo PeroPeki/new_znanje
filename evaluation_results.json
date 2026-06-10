@@ -1,57 +1,242 @@
 [
   {
-    "pitanje": "Koliki je doseg VW ID.3 Pro S?",
-    "ocekivani_odgovor": "VW ID.3 Pro S ima doseg do 564 km prema WLTP mjerenju.",
-    "chatbot_odgovor": "VW ID.3 Pro S ima doseg od 450 km u WLTP testovima.",
+    "jezik": "HR",
+    "pitanje": "Koliki je WLTP doseg VW ID.3 Pro S?",
+    "ocekivani_odgovor": "VW ID.3 Pro S ima WLTP kombinirani doseg od 548 do 564 km.",
+    "chatbot_odgovor": "12.4 kWh/100km (WLTP Medium Consumption",
     "rouge_scores": {
-      "rouge1_f": 0.6923,
-      "rouge2_f": 0.5,
-      "rougeL_f": 0.6923
+      "rouge1_f": 0.0952,
+      "rouge2_f": 0.0,
+      "rougeL_f": 0.0952
     },
-    "bleu_score": 0.4483
+    "semantic_similarity": 0.4437
   },
   {
-    "pitanje": "Koji motori su dostupni za VW Golf?",
-    "ocekivani_odgovor": "Golf je dostupan s 1.5 TSI benzinskim, MHEV hibridnim, eHybrid plug-in hibridnim i 2.0 TDI dizelskim motorima.",
-    "chatbot_odgovor": "Dostupni su benzinski motori (TSI), blagi hibridni pogon (MHEV/e-TSI), punopravni plug-in hibridom (PHEV/eHybrid) te dizelski motori (TDI).",
+    "jezik": "HR",
+    "pitanje": "Kolika je kapacitet baterije VW ID.3 GTX?",
+    "ocekivani_odgovor": "VW ID.3 GTX ima bateriju kapaciteta 79 kWh.",
+    "chatbot_odgovor": "Kapacitet baterije VW ID.3 GTX je 79 kWh (kilowatt-hora).",
     "rouge_scores": {
-      "rouge1_f": 0.2927,
-      "rouge2_f": 0.0513,
-      "rougeL_f": 0.2439
+      "rouge1_f": 0.6,
+      "rouge2_f": 0.4444,
+      "rougeL_f": 0.6
     },
-    "bleu_score": 0.0115
+    "semantic_similarity": 0.9803
   },
   {
+    "jezik": "HR",
+    "pitanje": "Koliki je električni doseg VW Golf eHybrid prema WLTP-u?",
+    "ocekivani_odgovor": "VW Golf eHybrid ima električni doseg od 143 km prema WLTP mjerenju.",
+    "chatbot_odgovor": "88 milja prema WLTP-u.",
+    "rouge_scores": {
+      "rouge1_f": 0.2222,
+      "rouge2_f": 0.125,
+      "rougeL_f": 0.2222
+    },
+    "semantic_similarity": 0.4234
+  },
+  {
+    "jezik": "HR",
+    "pitanje": "Koliki je prtljažnik VW Tiguana?",
+    "ocekivani_odgovor": "Prtljažnik VW Tiguana iznosi 652 litre, a sa sklopljenim naslonima 1.650 litara.",
+    "chatbot_odgovor": "Prtljažnik VW Tiguana ima 652 litara prtljaga, a kada se sjedala skupljeni su na 1.650 litara.",
+    "rouge_scores": {
+      "rouge1_f": 0.5625,
+      "rouge2_f": 0.3333,
+      "rougeL_f": 0.5625
+    },
+    "semantic_similarity": 0.9037
+  },
+  {
+    "jezik": "HR",
+    "pitanje": "Kolika je snaga VW Tayron R-Line motora?",
+    "ocekivani_odgovor": "VW Tayron R-Line ima motor 1.4 TSI snage 110 kW ili 150 KS.",
+    "chatbot_odgovor": "110 kW (147 KS",
+    "rouge_scores": {
+      "rouge1_f": 0.3158,
+      "rouge2_f": 0.1176,
+      "rougeL_f": 0.3158
+    },
+    "semantic_similarity": 0.5821
+  },
+  {
+    "jezik": "HR",
     "pitanje": "Kolika je garancija na bateriju VW ID.4?",
-    "ocekivani_odgovor": "VW garantira najmanje 70% kapaciteta baterije nakon 8 godina ili 160.000 km.",
-    "chatbot_odgovor": "Odgovor: Volkswagen garantira da će baterija ID.4 još uvijek imati barem 70% od originalne kapacitete nakon osam godina upotrebe ili preko 160,000 kilometara.",
+    "ocekivani_odgovor": "VW garantira najmanje 70% kapaciteta baterije VW ID.4 nakon 8 godina ili 160.000 km.",
+    "chatbot_odgovor": "Garancija na bateriju VW ID.4 je da će još imati najmanje 70% kapaciteta nakon osam godina ili 160,000 km.",
     "rouge_scores": {
-      "rouge1_f": 0.3684,
-      "rouge2_f": 0.0556,
-      "rougeL_f": 0.3684
+      "rouge1_f": 0.6486,
+      "rouge2_f": 0.4571,
+      "rougeL_f": 0.5405
     },
-    "bleu_score": 0.0124
+    "semantic_similarity": 0.935
   },
   {
-    "pitanje": "Koliki je prtljažnik VW ID.4?",
-    "ocekivani_odgovor": "Prtljažnik VW ID.4 iznosi 543 litre, a sa sklopljenim naslonima 1.575 litara.",
-    "chatbot_odgovor": "Prtljažnik VW ID.4 ima 1.575 litara.",
+    "jezik": "HR",
+    "pitanje": "Koliki je prtljažnik VW ID.3?",
+    "ocekivani_odgovor": "Prtljažnik VW ID.3 iznosi 385 litara, a sa sklopljenim stražnjim naslonima 1.267 litara.",
+    "chatbot_odgovor": "U dokumentu nije spomenuto što je kapacitet prtljažnika VW ID.3, tako da ne može biti odgovor na pitanje o tome koliki je prtljažnik VW ID.3.",
     "rouge_scores": {
-      "rouge1_f": 0.6667,
-      "rouge2_f": 0.5455,
-      "rougeL_f": 0.6667
+      "rouge1_f": 0.2128,
+      "rouge2_f": 0.1778,
+      "rougeL_f": 0.2128
     },
-    "bleu_score": 0.0935
+    "semantic_similarity": 0.6404
   },
   {
-    "pitanje": "Kolika je maksimalna snaga punjenja VW ID.3 GTX?",
-    "ocekivani_odgovor": "ID.3 GTX podržava maksimalnu DC snagu punjenja od 185 kW.",
-    "chatbot_odgovor": "Maksimalna snaga punjenja VW ID.3 GTX je 185 kW (252 KS).)",
+    "jezik": "HR",
+    "pitanje": "Koji motor ima VW T-Cross R-Line?",
+    "ocekivani_odgovor": "VW T-Cross R-Line ima motor 1.0 TSI snage 85 kW ili 116 KS s automatskim DSG mjenjačem.",
+    "chatbot_odgovor": "VW T-Cross R-Line ima 1.0 litarski benzinski motor (TSI) s 85 kW snagom i automatskim mjenjačem DSG sa sedam brzina.",
     "rouge_scores": {
-      "rouge1_f": 0.5,
-      "rouge2_f": 0.2727,
-      "rougeL_f": 0.4167
+      "rouge1_f": 0.7556,
+      "rouge2_f": 0.3721,
+      "rougeL_f": 0.6222
     },
-    "bleu_score": 0.0474
+    "semantic_similarity": 0.9182
+  },
+  {
+    "jezik": "HR",
+    "pitanje": "Kolika je kombinirana potrošnja VW Tiguan 2.0 TDI?",
+    "ocekivani_odgovor": "Kombinirana potrošnja VW Tiguan 2.0 TDI iznosi 6,6 litara na 100 km.",
+    "chatbot_odgovor": "Kombinirana potrošnja VW Tiguan 2.0 TDI je 173 g/km (prema specifikacijskom listu iz ožujka 2025).",
+    "rouge_scores": {
+      "rouge1_f": 0.5294,
+      "rouge2_f": 0.4375,
+      "rougeL_f": 0.5294
+    },
+    "semantic_similarity": 0.8159
+  },
+  {
+    "jezik": "HR",
+    "pitanje": "Kolika je maksimalna brzina VW ID.3 GTX?",
+    "ocekivani_odgovor": "Maksimalna brzina VW ID.3 GTX je 180 km/h.",
+    "chatbot_odgovor": "180 km/h",
+    "rouge_scores": {
+      "rouge1_f": 0.4615,
+      "rouge2_f": 0.3636,
+      "rougeL_f": 0.4615
+    },
+    "semantic_similarity": 0.6039
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What is the WLTP range of the VW ID.3 GTX?",
+    "ocekivani_odgovor": "The VW ID.3 GTX has a WLTP combined range of 579 to 605 km.",
+    "chatbot_odgovor": "The WLTP range of the VW ID.3 GTX is not explicitly stated in the provided document (ID3_MY26.pdf). However, you can find more information about this vehicle's specifications and features on Volkswagen's official website: https://www.volkswagen.com/en/.",
+    "rouge_scores": {
+      "rouge1_f": 0.2759,
+      "rouge2_f": 0.1786,
+      "rougeL_f": 0.1724
+    },
+    "semantic_similarity": 0.6592
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What is the boot space of the VW ID.4?",
+    "ocekivani_odgovor": "The VW ID.4 has a boot space of 543 litres, expanding to 1,575 litres with the rear seats folded.",
+    "chatbot_odgovor": "The boot space of the VW ID.4 is 543 liters, according to the official Volkswagen press materials for the model.",
+    "rouge_scores": {
+      "rouge1_f": 0.4762,
+      "rouge2_f": 0.25,
+      "rougeL_f": 0.3333
+    },
+    "semantic_similarity": 0.8663
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What is the maximum DC charging speed of the VW ID.4?",
+    "ocekivani_odgovor": "The VW ID.4 supports a maximum DC fast charging speed of 135 kW.",
+    "chatbot_odgovor": "The maximum DC charging speed of the VW ID.4 is 135 kW (kilowatts). This allows for a rapid charge, with approximately 80% battery capacity reached in around 36 minutes when starting from a 5% state-of-charge (SOC) level.",
+    "rouge_scores": {
+      "rouge1_f": 0.4444,
+      "rouge2_f": 0.2692,
+      "rougeL_f": 0.2963
+    },
+    "semantic_similarity": 0.8893
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "How long does it take to charge the VW ID.4 from 5% to 80%?",
+    "ocekivani_odgovor": "The VW ID.4 charges from 5% to 80% in approximately 36 minutes using a 135 kW DC charger.",
+    "chatbot_odgovor": "The VW ID.4 with the 77 kWh battery and a charging capacity of up to 135 kW can charge from 5% to 80% in approximately 6 hours (based on an ambient temperature of approx. 23°C). This is assuming that you are using a DC fast charger with the maximum charging capacity mentioned above, and starting at a battery state-of-charge (SOC) level of 5%. If your vehicle's SOC starts higher than 5%, or if you use a slower AC Level 2 charger instead of a faster DC charger, then it will take longer to charge the VW ID.4 from 5% to 80%.",
+    "rouge_scores": {
+      "rouge1_f": 0.254,
+      "rouge2_f": 0.1774,
+      "rougeL_f": 0.2222
+    },
+    "semantic_similarity": 0.8847
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What engines are available for the VW T-Cross?",
+    "ocekivani_odgovor": "The VW T-Cross is available with a 1.0 TSI 70 kW engine with manual gearbox and a 1.0 TSI 85 kW engine with DSG automatic gearbox.",
+    "chatbot_odgovor": "The Volkswagen T-Cross is available with a 1.0 liter turbocharged inline three cylinder gasoline engine (TSI) in two power outputs:\n\n* 70 kW (95 PS; 94 hp) at 6,200 rpm and maximum torque of 175 Nm (130 lbft) between 1,850 to 4,000 rpm. This engine is available with a standard six-speed manual transmission or an optional seven-speed dual clutch automatic gearbox (DSG).\n* 85 kW (116 PS; 114 hp) at 6,200 rpm and maximum torque of 200 Nm (147 lbft) between 1,950 to 3,800 rpm. This engine is available with a standard six-speed manual transmission or an optional seven-speed dual clutch automatic gearbox (DSG).",
+    "rouge_scores": {
+      "rouge1_f": 0.3636,
+      "rouge2_f": 0.1418,
+      "rougeL_f": 0.3077
+    },
+    "semantic_similarity": 0.79
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What is the wheelbase of the VW Tiguan?",
+    "ocekivani_odgovor": "The VW Tiguan has a wheelbase of 2,676 mm.",
+    "chatbot_odgovor": "The wheelbase of the VW Tiguan is 2,676 mm.",
+    "rouge_scores": {
+      "rouge1_f": 0.8,
+      "rouge2_f": 0.5556,
+      "rougeL_f": 0.6
+    },
+    "semantic_similarity": 0.9937
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What is the towing capacity of the VW T-Cross?",
+    "ocekivani_odgovor": "The VW T-Cross can tow up to 1,200 kg with a braked trailer.",
+    "chatbot_odgovor": "The towing capacity of the VW T-Cross is 1200 kg (braked) and 660 kg (unbraked).",
+    "rouge_scores": {
+      "rouge1_f": 0.3871,
+      "rouge2_f": 0.2069,
+      "rougeL_f": 0.3871
+    },
+    "semantic_similarity": 0.8036
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What is the fuel consumption of the VW Golf 2.0 TDI 116 hp?",
+    "ocekivani_odgovor": "The VW Golf 2.0 TDI 116 hp has a combined WLTP fuel consumption of 4.3 to 4.5 litres per 100 km.",
+    "chatbot_odgovor": "The fuel consumption of the VW Golf 2.0 TDI 116 hp is 4.5 liters per 100 kilometers (l/100km) according to WLTP data provided in the document \"Golf_MY25.pdf\".",
+    "rouge_scores": {
+      "rouge1_f": 0.6071,
+      "rouge2_f": 0.4074,
+      "rougeL_f": 0.4286
+    },
+    "semantic_similarity": 0.9327
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What is the battery capacity of the VW Golf eHybrid?",
+    "ocekivani_odgovor": "The VW Golf eHybrid has a lithium-ion battery with a capacity of 19.7 kWh.",
+    "chatbot_odgovor": "The battery capacity of the VW Golf eHybrid is 19.7 kWh (net).",
+    "rouge_scores": {
+      "rouge1_f": 0.6897,
+      "rouge2_f": 0.4444,
+      "rougeL_f": 0.4828
+    },
+    "semantic_similarity": 0.9143
+  },
+  {
+    "jezik": "EN",
+    "pitanje": "What is the 0-100 km/h acceleration of the VW ID.4 Pro Performance?",
+    "ocekivani_odgovor": "The VW ID.4 Pro Performance accelerates from 0 to 100 km/h in 8.5 seconds.",
+    "chatbot_odgovor": "The 0-100 km/h acceleration of the VW ID.4 Pro Performance is 8.5 seconds (sporije od ID.4 Pro 4MOTION2).",
+    "rouge_scores": {
+      "rouge1_f": 0.65,
+      "rouge2_f": 0.4737,
+      "rougeL_f": 0.45
+    },
+    "semantic_similarity": 0.9286
   }
 ]

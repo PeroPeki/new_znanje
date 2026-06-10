@@ -37,7 +37,7 @@ def load_documents(directory: str):
                 print(f"✗ Greška pri učitavanju {filename}: {e}")
     return documents
 
-def chunk_documents(documents, chunk_size=600, chunk_overlap=150):
+def chunk_documents(documents, chunk_size=300, chunk_overlap=75):
     splitter = RecursiveCharacterTextSplitter(
         chunk_size=chunk_size,
         chunk_overlap=chunk_overlap,
