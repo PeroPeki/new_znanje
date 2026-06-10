@@ -1,0 +1,269 @@
+VOLKSWAGEN GOLF — TEHNIČKI PODACI I OPIS MODELA
+
+Izvor: Volkswagen Ireland, travanj 2025. (model year 2025, važeće od 15. travnja 2025.)
+
+---
+
+OPĆI OPIS
+
+Volkswagen Golf kompaktni je automobil koji predstavlja jedan od najprodavanijih i najprepoznatljivijih modela u povijesti automobilske industrije. Novi Golf dostupan je s benzinskim motorima (TSI), blagim hibridnim pogonom (MHEV/e-TSI), punopravnim plug-in hibridom (PHEV/eHybrid) te dizelskim motorima (TDI). Dolazi u četiri razine opreme: Life, Edition 75, Style i R-Line.
+
+---
+
+DOSTUPNI MOTORI I VARIJANTE
+
+BENZINSKI MOTORI (TSI)
+
+Golf Life 1.5 TSI 116 KS — ručni mjenjač
+- Snaga: 85 kW / 116 KS
+- Maksimalni okretni moment: 220 Nm
+- Ubrzanje 0–100 km/h: 9,9 sekundi
+- Maksimalna brzina: 203 km/h
+- Kombinirani CO2 (WLTP): 120 g/km
+- Kombinirana potrošnja (WLTP): 5,4 l/100 km
+- Kapacitet rezervoara: 45 litara
+
+Golf Life 1.5 TSI MHEV 116 KS — automatski DSG (blagi hibrid)
+- Snaga: 85 kW / 116 KS
+- Maksimalni okretni moment: 220 Nm
+- Ubrzanje 0–100 km/h: 8,6 sekundi
+- Maksimalna brzina: 224 km/h
+- Kombinirani CO2 (WLTP): 117 g/km
+- Kombinirana potrošnja (WLTP): 5,2 l/100 km
+
+Golf Style 1.5 TSI 150 KS — ručni mjenjač
+- Snaga: 110 kW / 150 KS
+- Maksimalni okretni moment: 250 Nm
+- Ubrzanje 0–100 km/h: 8,6 sekundi
+- Maksimalna brzina: 224 km/h
+- Kombinirani CO2 (WLTP): 124 g/km
+- Kombinirana potrošnja (WLTP): 5,6 l/100 km
+
+Golf R-Line 1.5 TSI MHEV 150 KS — automatski DSG (blagi hibrid)
+- Snaga: 110 kW / 150 KS
+- Maksimalni okretni moment: 250 Nm
+- Ubrzanje 0–100 km/h: 8,4 sekunde
+- Maksimalna brzina: 224 km/h
+- Kombinirani CO2 (WLTP): 123 g/km
+- Kombinirana potrošnja (WLTP): 5,4 l/100 km
+
+Napomena o blagom hibridu (MHEV / e-TSI):
+U e-TSI modelu starter-generator podupire motor pri kretanju i pri niskim brzinama. Kočenjem i koastingom puni se litij-ionska baterija. Ova tehnologija značajno smanjuje potrošnju goriva i emisije CO2.
+
+---
+
+PLUG-IN HIBRID (PHEV / eHybrid)
+
+Golf Life / Edition 75 / Style eHybrid 1.5 TSI 150 KS DSG
+- Motor (samo benzinski): 110 kW / 150 KS, okretni moment 250 Nm
+- Elektromotor: 85 kW
+- Ukupna snaga sustava: 150 kW / 200 KS
+- Ukupni okretni moment: 350 Nm
+- Baterija: litij-ionska, 19,7 kWh
+- Električni doseg (WLTP): 143 km
+- Kombinirana električna potrošnja: 14,7–15,0 kWh/100 km
+- Kombinirani CO2 (WLTP): 5,7–6,1 g/km
+- Kombinirani CO2 (WLTP, ukupno): 6,0 g/km
+- Kapacitet rezervoara: 40 litara
+- Mjenjač: 6-stupanjski automatski DSG
+
+Vremena punjenja (eHybrid):
+- AC 2,3 kW (kućna utičnica): 12 sati do 100% SOC
+- AC 11 kW (zidni punjač): 2 sata i 30 minuta do 100% SOC
+- DC 40 kW: 26 minuta od 10% do 80% SOC
+
+---
+
+DIZELSKI MOTORI (TDI)
+
+Golf Life 2.0 TDI 116 KS — ručni mjenjač
+- Motor: četverocilindarski diesel, 2,0 l / 1.968 cc
+- Snaga: 85 kW / 116 KS
+- Maksimalni okretni moment: 300 Nm
+- Ubrzanje 0–100 km/h: 10,2 sekunde
+- Maksimalna brzina: 202 km/h
+- Kombinirani CO2 (WLTP): 113 g/km
+- Kombinirana potrošnja (WLTP): 4,3–4,5 l/100 km
+- Emisijska klasa: Euro 6 EB
+- Kapacitet rezervoara: 45 litara
+
+Golf R-Line 2.0 TDI 150 KS — automatski DSG
+- Motor: četverocilindarski diesel, 2,0 l / 1.968 cc
+- Snaga: 110 kW / 150 KS
+- Maksimalni okretni moment: 360 Nm
+- Ubrzanje 0–100 km/h: 8,0 sekundi
+- Maksimalna brzina: 223 km/h
+- Kombinirani CO2 (WLTP): 123 g/km
+- Kombinirana potrošnja (WLTP): 4,7–4,8 l/100 km
+- Emisijska klasa: Euro 6 EA
+- Kapacitet rezervoara: 50 litara
+
+---
+
+RAZINE OPREME
+
+Golf Life (osnovna razina)
+Unutrašnjost:
+- Električni prozori (sprijeda i straga)
+- Digitalni instrument-cluster
+- 2 LED svjetla za čitanje (sprijeda i straga)
+- Auto-dimming unutarnje retrovizor
+- Višefunkcijski upravljač obložen kožom
+- Prednja sjedala s ručnom potporom za leđa
+- Ambijentalna rasvjeta u 10 boja
+- Prednja sredinska naslonjač za ruku
+
+Vanjska oprema:
+- 16-inčni alu-naplatci Norfolk
+- LED dnevna svjetla
+- LED stražnja kombinirana svjetla
+- Bočna ogledala s električnim podešavanjem i grijanjem
+
+Funkcionalna oprema:
+- 12,9-inčni radio Ready to Discover (bez navigacije)
+- 6+1 zvučnika
+- 2x USB-C sprijeda + 2x USB-C straga
+- VW Connect
+- Adaptivni tempomat (ACC)
+- Prikaz prometnih znakova
+- Digitalni kokpit Pro
+- Bežično punjenje mobitela
+- Keyless Access s SAFELOCK
+- Apple CarPlay (bežično) i Android Auto
+- Lane Assist (zadržavanje u traku)
+- Climatronic (klimatizacija)
+- Park Assist s Park Distance Control
+- Alarm protiv krađe
+
+Sigurnost:
+- Prednji i stražnji airbag
+- Bočni airbag sprijeda
+- Zavjesni airbag (sprijeda i straga)
+- Središnji airbag
+- Front Assist s automatskim kočenjem (pješaci i biciklisti)
+- Elektronska stabilizacijska kontrola (ESC)
+- ISOFIX nosači dječjih sjedala
+- Car2X (samo na DSG modelima)
+- Sustav za nadzor tlaka u gumama
+
+Golf Edition 75 (dodatno uz Life)
+- 17-inčni alu-naplatci Nottingham
+- Stražnja kamera
+- Light Assist (automatska kontrola dugih svjetala)
+- Metalna boja
+- Zatamnjeni stražnji prozori
+
+Golf Style (dodatno uz Life)
+Unutrašnjost:
+- ArtVelours microfleece presvlake sjedišta
+- Prednja sportska sjedala
+- LED ambijentalna rasvjeta u 30 boja
+- Grijani upravljač
+
+Vanjska oprema:
+- 17-inčni alu-naplatci Nottingham
+- Poboljšani LED farovi s prednjim maglenim svjetlima
+- Osvjetljeni VW logo sprijeda
+- LED Plus farovi
+- Sportski branici
+- Kromirana traka na prozorskom okviru
+
+Funkcionalnost:
+- Light Assist (automatska duga svjetla)
+- Side Assist (praćenje mrtvog kuta)
+- Rear Traffic Alert
+- Travel Assist + Lane Assist
+- 3-zonski Air Care Climatronic
+- Stražnja kamera
+- Grijana prednja sjedala
+
+Golf Style eHybrid (dodatno uz Style):
+- Navigacijski sustav Discover 12,9 inča
+- IDA glasovni asistent s ChatGPT integracijom
+- Head-Up display
+- IQ.Light LED Matrix farovi i stražnja svjetla
+- 3D LED stražnja kombinirana svjetla s dinamičnim žmigavcima
+- Dinamično svjetlo u zavojima
+- Punjački kabeli (Mode 2 i Mode 3)
+
+Golf R-Line (dodatno uz Life)
+Unutrašnjost:
+- Premium sportska sjedala sprijeda
+- R-Line tkanina s ArtVelours microfleeceom
+- Pedali od brušenog nehrđajućeg čelika
+- LED ambijentalna rasvjeta u 30 boja
+- Grijani sportski upravljač
+
+Vanjska oprema:
+- 18-inčni alu-naplatci York (crni)
+- R-Line branici
+- Zatamnjeni stražnji prozori
+- R-Line rešetka hladnjaka
+
+Funkcionalnost:
+- Progresivno upravljanje
+- Sportsko podvozje
+- Odabir profila vožnje
+- Stražnja kamera
+- Grijana prednja sjedala
+
+---
+
+NAPLATCI
+
+16" Norfolk — standardni na Life (205/55 R16)
+17" Nottingham — standardni na Edition 75 i Style; opcija na Life (225/45 R17)
+18" York (crni) — standardni na R-Line (225/40 R18)
+18" Catania — opcija na Style (225/40 R18)
+18" Leeds — opcija na Style i R-Line (225/40 R18)
+
+---
+
+OPCIJSKA OPREMA (odabir)
+
+- Paket pomoći pri vožnji: Travel Assist, Lane Assist, Side Assist, Proactive Passenger Protection, Emergency Assist (samo DSG) — €690
+- Odabir profila vožnje — €200
+- Head-Up display — €780
+- IQ.Light LED Matrix farovi i stražnja svjetla — od €850
+- Panoramski krov (električni klizni) — €1.265
+- Paket Vienna kože s TopSport sjedalima — od €2.840
+- Harman Kardon zvučni sustav (400W, 12-kanalsko pojačalo, subwoofer) — €765
+- Navigacijski sustav Discover (12,9 inča, IDA asistent) — €980
+- Adaptivno podvozje (DCC) — od €975
+- Sportsko podvozje — €265
+- Prikolično kuke (električna, sklopiva) — €1.005
+- Zatamnjeni prozori — €335
+- Bočni airbag straga — €420
+
+---
+
+BOJE KAROSERIJE
+
+Urano Grey — mat, besplatna
+Pure White — mat
+Moonstone Grey — mat
+Dolphin Grey — metalik
+Anemone Blue — metalik
+Crystal Ice Blue — metalik
+Oyster Silver — metalik
+Kings Red — metalik
+Grenadila Black — metalik
+Lapiz Blue — metalik (samo R-Line)
+Oryx White — efekt bisera
+
+---
+
+TAPECIRANJE I UNUTRAŠNJOST
+
+- 'Nature Cross' tkanina Soul Black — standardna na Life i Edition 75
+- 'Brush Dark' tkanina Soul Black — standardna na Style
+- 'Mistral' tkanina Storm Grey — opcija na Style
+- 'R-Line' tkanina Anthracite — standardna na R-Line
+- 'Vienna' koža Soul Black — opcija na Style
+- 'Vienna' koža Anthracite — opcija na R-Line
+
+---
+
+NAPOMENA
+
+Navedeni podaci vrijede za model year 2025, na snazi od 15. travnja 2025. za irsko tržište. Tehnički podaci mogu se razlikovati ovisno o tržištu i konfiguraciji. Za najnovije podatke za hrvatsko tržište savjetujte se s ovlaštenim VW zastupnikom u Hrvatskoj.

@@ -1,0 +1,226 @@
+VOLKSWAGEN ID.3 — TEHNIČKI PODACI I OPIS MODELA
+
+Izvor: Volkswagen Ireland, siječanj 2026. (model year 2026)
+
+---
+
+OPĆI OPIS
+
+Volkswagen ID.3 kompaktni je električni automobil temeljen na MEB platformi (Modular Electric Drive Platform). Namijenjen je svakodnevnoj gradskoj i međugradskoj vožnji te predstavlja novu eru električne mobilnosti u Volkswagen ponudi. ID.3 dolazi u nekoliko varijanti opreme i pogona, od ekonomičnog Pure modela do sportskog GTX Performance modela.
+
+---
+
+DOSTUPNE VARIJANTE I POGON
+
+ID.3 Pure
+- Baterija: 52 kWh
+- Snaga: 125 kW / 170 KS
+- Maksimalni okretni moment: 310 Nm
+- Ubrzanje 0–100 km/h: 8,2 sekunde
+- Maksimalna brzina: 160 km/h
+- Doseg (WLTP kombinirani): 368–388 km
+- Maksimalna snaga DC punjenja: 145 kW
+- Mjenjač: automatski, 1 brzina
+
+ID.3 Pro
+- Baterija: 58 kWh
+- Snaga: 150 kW / 204 KS
+- Maksimalni okretni moment: 310 Nm
+- Ubrzanje 0–100 km/h: 7,6 sekundi
+- Maksimalna brzina: 160 km/h
+- Doseg (WLTP kombinirani): 411–434 km
+- Maksimalna snaga DC punjenja: 165 kW
+- Mjenjač: automatski, 1 brzina
+
+ID.3 Pro S
+- Baterija: 79 kWh
+- Snaga: 150 kW / 204 KS
+- Maksimalni okretni moment: 310 Nm
+- Ubrzanje 0–100 km/h: 8,2 sekunde
+- Maksimalna brzina: 160 km/h
+- Doseg (WLTP kombinirani): 548–564 km
+- Maksimalna snaga DC punjenja: 185 kW
+- Mjenjač: automatski, 1 brzina
+
+ID.3 GTX
+- Baterija: 79 kWh
+- Snaga: 210 kW / 286 KS
+- Maksimalni okretni moment: 560 Nm
+- Ubrzanje 0–100 km/h: 5,9 sekundi
+- Maksimalna brzina: 180 km/h
+- Doseg (WLTP kombinirani): 579–605 km
+- Maksimalna snaga DC punjenja: 185 kW
+- Mjenjač: automatski, 1 brzina
+
+ID.3 GTX Performance
+- Baterija: 79 kWh
+- Snaga: 240 kW / 326 KS
+- Maksimalni okretni moment: 560 Nm
+- Ubrzanje 0–100 km/h: 5,7 sekundi
+- Maksimalna brzina: 180 km/h
+- Doseg (WLTP kombinirani): 529–597 km
+- Maksimalna snaga DC punjenja: 185 kW
+- Mjenjač: automatski, 1 brzina
+
+---
+
+POTROŠNJA ENERGIJE (WLTP)
+
+ID.3 Pure (52 kWh):
+- Kombinirana potrošnja: 15,2–16,1 kWh/100 km
+- CO2 emisije: 0 g/km
+
+ID.3 Pro (58 kWh):
+- Kombinirana potrošnja: 15,3–16,3 kWh/100 km
+- CO2 emisije: 0 g/km
+
+ID.3 Pro S (79 kWh):
+- Kombinirana potrošnja: 15,7–16,2 kWh/100 km
+- CO2 emisije: 0 g/km
+
+ID.3 GTX (79 kWh):
+- Kombinirana potrošnja: 14,5–15,3 kWh/100 km
+- CO2 emisije: 0 g/km
+
+ID.3 GTX Performance (79 kWh):
+- Kombinirana potrošnja: 15,3–16,3 kWh/100 km
+- CO2 emisije: 0 g/km
+
+---
+
+DIMENZIJE I TEŽINE
+
+Duljina: 4.264 mm
+Širina: 1.809 mm
+Visina: 1.564 mm
+Međuosovinski razmak: 2.770 mm
+Radijus okretanja: oko 11,5 m
+Širina lakta (sprijeda/straga): 1.464 mm / 1.444 mm
+
+Prtljažnik: 385 litara
+Prtljažnik (sklopljeni stražnji nasloni): 1.267 litara
+
+Masa vozila bez tereta (Pure): 1.787 kg
+Masa vozila bez tereta (Pro): 1.822 kg
+Masa vozila bez tereta (Pro S): 1.957 kg
+Masa vozila bez tereta (GTX): 1.981 kg
+Masa vozila bez tereta (GTX Performance): 1.993 kg
+
+Najveća dopuštena masa (Pure): 2.260 kg
+Najveća dopuštena masa (Pro): 2.280 kg
+Najveća dopuštena masa (Pro S / GTX): 2.420–2.430 kg
+
+---
+
+STANDARDNA OPREMA (odabir po razinama)
+
+Sve razine:
+- Stražnja kamera
+- Senzori za parkiranje
+- Adaptivni tempomat (ACC)
+- Front Assist (sustav upozorenja na prednju koliziju)
+- Klimatronik (jednoznačni)
+- Apple CarPlay i Android Auto
+- Sustav za nadzor tlaka u gumama
+- ISOFIX nosači dječjih sjedala
+- Automatska elektronska ručna kočnica s auto-hold funkcijom
+- Prikaz prometnih znakova
+
+Pure Plus i viši modeli (standardno):
+- 18-inčni dijamantno brušeni alu-naplatci East Derry
+- Metalna boja
+- IQ.Light Matrix LED prednja svjetla
+- Zatamnjeni stražnji prozori
+- 12,9-inčni ekran infotainmenta
+- 2-zonski Climatronic
+- Keyless Access s SAFELOCK
+- Grijana prednja sjedala
+
+Pro S i viši modeli:
+- ergoActive sjedala sprijeda
+- Unutrašnji paket (Interior Package)
+- 20-inčni Sanya dijamantno brušeni alu-naplatci (standardno)
+
+GTX modeli (standardno):
+- TopSport sjedala s grijanjem i masažnom funkcijom
+- Dekorativni šavi i rubovi u crvenoj boji
+- 20-inčni Skagen dijamantno brušeni alu-naplatci
+- GTX branici (sprijeda i straga) u sjajno crnoj boji
+- GTX bočni pragovi u sjajno crnoj boji
+- 480W Harman Kardon zvučni sustav
+- Unutrašnja LED ambijentalna rasvjeta u 30 boja
+- Adaptivno podvozje (Adaptive Chassis Control)
+- Progresivno upravljanje
+
+GTX FIRE+ICE (limitirana serija, 1.990 primjeraka):
+- Ekskluzivna boja Ultraviolet metallic
+- 20-inčni Locarno alu-naplatci u Ultraviolet metallic boji
+- Unutrašnjost s kontrastom Flaming Red / Keep Cool Blue
+- ArtVelours sjedala s prošivenim uzorkom
+- Posebni GTX FIRE+ICE oznake i folija na C stupu
+
+---
+
+OPCIJSKA OPREMA (odabir)
+
+- Toplinška pumpa (heat pump) — povećava doseg pri niskim temperaturama
+- Panoramski krov s klizanjem
+- Adaptivno podvozje DCC
+- Paket pomoći pri vožnji IQ.DRIVE (Travel Assist, Emergency Assist, Area View, Car2X, Lane Assist)
+- Paket udobnosti (Comfort Package)
+- Priprema za nosač bicikla
+
+---
+
+SUSTAVI POMOĆI PRI VOŽNJI
+
+Lane Assist — od 65 km/h prepoznaje nenamjerno napuštanje voznog traka i intervenira upravljanjem; upozorava vibriranjem volana.
+
+Travel Assist — aktivno pomaže vozaču da ostane u voznom traku uz zadanu maksimalnu brzinu i minimalni razmak od vozila ispred. Podržava promjenu traka na autocesti.
+
+Emergency Assist — ako vozač ne reagira, sustav donosi vozilo na mirovanje radi sprječavanja nesreće.
+
+Area View — 4 kamere pružaju pogled od 360° oko vozila na zaslonu infotainmenta.
+
+Car2X — upozorava na opasnosti u prometu (radovi, hitna vozila) putem Wi-Fi komunikacije s drugim vozilima i infrastrukturom.
+
+Adaptive Cruise Control (ACC) — održava zadanu brzinu i automatski prilagođava razmak od vozila ispred.
+
+Front Assist — nadzire prostor ispred vozila i upozorava ili automatski koči pri opasnosti od sudara.
+
+Park Assist Plus — automatski parkira vozilo; može zapamtiti do 5 parkirnih manevara.
+
+---
+
+BOJE KAROSERIJE
+
+- Moonstone Grey (mat) — standardna na svim modelima
+- Glacier White (metalik) — opcija
+- Grenadilla Black (metalik) — opcija
+- Dark Olivine Green (metalik) — opcija
+- Scale Silver (metalik) — opcija
+- Costa Azul Blue (metalik) — opcija
+- Kings Red (metalik) — opcija
+- Ultra Violet (metalik) — ekskluzivno za GTX FIRE+ICE
+
+Svi modeli dolaze s crnim krovom i poklopcem prtljažnika.
+
+---
+
+PUNJENJE
+
+ID.3 podržava punjenje izmjeničnom strujom (AC) i istosmjernom strujom (DC).
+
+Maksimalna snaga DC punjenja:
+- Pure (52 kWh): 145 kW
+- Pro (58 kWh): 165 kW
+- Pro S / GTX (79 kWh): 185 kW
+
+Opcija: toplinška pumpa za veću učinkovitost pri niskim temperaturama.
+Opcija: punjački kabel (Mode 2, Type 2, 10A).
+
+---
+
+NAPOMENA
+
+Navedeni podaci vrijede za model year 2026, objavljeno u siječnju 2026. za irsko tržište. Tehničke specifikacije mogu se razlikovati ovisno o tržištu i konfiguraciji vozila. Za najnovije podatke za hrvatsko tržište savjetujte se s ovlaštenim VW zastupnikom.

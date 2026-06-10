@@ -1,0 +1,37 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Environment variables
+.env
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Large model files (download manually)
+models/
+*.gguf
+
+# Generated vector database (rebuild with: python src/ingest.py)
+chroma_db/

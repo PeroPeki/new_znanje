@@ -1,0 +1,277 @@
+VOLKSWAGEN T-CROSS — TEHNIČKI PODACI I OPIS MODELA
+
+Izvor: Volkswagen South Africa, specifikacijski list, veljača 2025. (model year 2025)
+
+---
+
+OPĆI OPIS
+
+Volkswagen T-Cross subkompaktni je SUV koji se pozicionira kao najmanji crossover u
+Volkswagenovu lineupu, ispod T-Roca i Tiguana. Dostupan je isključivo s trocilindričnim
+benzinskim motorom 1.0 TSI u dvije snage (70 kW i 85 kW), s prednjim pogonom i u pet
+razina opreme: T-Cross 1.0 TSI 70 kW (ručni mjenjač), T-Cross 1.0 TSI 85 kW DSG, Life,
+Style i R-Line. Sve DSG varijante koriste automatski mjenjač s 7 brzina.
+
+---
+
+DOSTUPNI MOTORI I VARIJANTE
+
+BENZINSKI MOTORI (TSI)
+
+T-Cross 1.0 TSI 70 kW — ručni mjenjač (5 brzina)
+- Snaga: 70 kW / 95 KS (pri 5.000–5.500 o/min)
+- Maksimalni okretni moment: 175 Nm (pri 2.000–3.500 o/min)
+- Ubrzanje 0–100 km/h: 11,5 sekundi
+- Maksimalna brzina: 180 km/h
+- Kombinirani CO2: 133 g/km
+- Kombinirana potrošnja: 5,9 l/100 km
+- Kapacitet rezervoara: 40 litara
+- Emisijska norma: EU6
+- Pogon: prednji (2WD)
+
+T-Cross 1.0 TSI 85 kW DSG — automatski mjenjač DSG (7 brzina)
+- Snaga: 85 kW / 116 KS (pri 5.000–5.500 o/min)
+- Maksimalni okretni moment: 200 Nm (pri 2.000–3.500 o/min)
+- Ubrzanje 0–100 km/h: 10,2 sekunde
+- Maksimalna brzina: 193 km/h
+- Kombinirani CO2: 126 g/km
+- Kombinirana potrošnja: 5,6 l/100 km
+- Kapacitet rezervoara: 40 litara
+- Emisijska norma: EU6
+- Pogon: prednji (2WD)
+
+Life 1.0 TSI 85 kW DSG — automatski mjenjač DSG (7 brzina)
+- Snaga: 85 kW / 116 KS
+- Maksimalni okretni moment: 200 Nm
+- Ubrzanje 0–100 km/h: 10,2 sekunde
+- Maksimalna brzina: 193 km/h
+- Kombinirani CO2: 126 g/km
+- Kombinirana potrošnja: 5,6 l/100 km
+- Kapacitet rezervoara: 40 litara
+- Pogon: prednji (2WD)
+
+Style 1.0 TSI 85 kW DSG — automatski mjenjač DSG (7 brzina)
+- Snaga: 85 kW / 116 KS
+- Maksimalni okretni moment: 200 Nm
+- Ubrzanje 0–100 km/h: 10,2 sekunde
+- Maksimalna brzina: 193 km/h
+- Kombinirani CO2: 126 g/km
+- Kombinirana potrošnja: 5,6 l/100 km
+- Kapacitet rezervoara: 40 litara
+- Profili vožnje (Eco funkcija): dostupni
+- Pogon: prednji (2WD)
+
+R-Line 1.0 TSI 85 kW DSG — automatski mjenjač DSG (7 brzina)
+- Snaga: 85 kW / 116 KS
+- Maksimalni okretni moment: 200 Nm
+- Ubrzanje 0–100 km/h: 10,2 sekunde
+- Maksimalna brzina: 193 km/h
+- Kombinirani CO2: 126 g/km
+- Kombinirana potrošnja: 5,6 l/100 km
+- Kapacitet rezervoara: 40 litara
+- Profili vožnje (Eco funkcija): dostupni
+- Pogon: prednji (2WD)
+
+---
+
+DIMENZIJE
+
+Duljina: 4.135 mm
+Širina (bez zrcala): 1.760 mm
+Širina (sa zrcalima): 1.993 mm
+Visina: 1.573 mm
+Međuosovinski razmak: 2.551 mm
+Kapacitet prtljažnika: 385–455 litara
+Kapacitet rezervoara: 40 litara
+Svetli propust (Ground clearance): 188 mm
+Masa vozila (tare/kerb): 1.291 kg
+Bruto masa vozila (GVM): 1.730 kg (T-Cross, Life) / 1.750 kg (Style, R-Line)
+Vučna masa s kočnicom: 1.200 kg
+Vučna masa bez kočnice: 660 kg
+Krug okretanja: 10,6 m
+
+---
+
+RAZINE OPREME
+
+T-Cross 1.0 TSI 70 kW (osnovna razina — ručni mjenjač)
+Unutrašnjost:
+- Radio "Composition Colour" s 8" zaslonom, AM/FM, Bluetooth, App-Connect
+- 8" Digital Cockpit
+- 2x USB-C priključka sprijeda
+- 2 zvučnika
+- Ručna klima
+- Standardna prednja sjedala s podešavanjem visine i lumbalnim osloncem
+- Podni odjeljak ispod desnog prednjeg sjedala
+- Unutrašnji retrovizor s ručnim tamnenjem
+- Višefunkcijski upravljač
+- Plastična ručica ručne kočnice i mjenjača
+- Tepih za pod sprijeda i straga
+- 12-V utičnica sprijeda
+
+Vanjska oprema:
+- LED prednja svjetla s odvojenim dnevnim svjetlima
+- LED stražnja kombinirana svjetla
+- Čelični naplatci 6J x 16" (gume 205/60 R16)
+- Crne dekorativne trake na unutrašnjosti
+- Branici u boji karoserije
+
+Sigurnosni sustavi:
+- ESP s ABS, ASR, EDL, EDTC i stabilizacijom prikolice
+- Multi Collision Braking System
+- Prednji i bočni airbagy, zavjesni airbag
+- ISOFIX hvatišta
+- Alarm s ultrazvučnim unutarnjim nadzorom
+- Pomoć pri kretanju na brdini (Hill Start Assist)
+- Senzor tlaka u gumama (TPMS)
+- Parkirni senzori (straga)
+- Dječje brave stražnjih vrata
+
+---
+
+T-Cross 1.0 TSI 85 kW DSG (dodatno uz 70 kW bazu)
+- Automatski mjenjač DSG (7 brzina) umjesto ručnog
+- Disk kočnice pozadi (umjesto bubnjih)
+- Maksimalna brzina 193 km/h (umjesto 180 km/h)
+- Parkirni senzori straga — standardno
+
+---
+
+Life 1.0 TSI 85 kW DSG (dodatno uz 85 kW bazu)
+Unutrašnjost:
+- Radio "Composition Media" s 8" zaslonom, AM/FM, 6 zvučnika, induktivno punjenje
+- 8" Digital Cockpit (isti kao baza)
+- 2x USB-C sprijeda + 2x USB-C punjači pozadi
+- Sučelje s induktivnim punjenjem mobilnog telefona
+- Prednja sredinska naslona ruke (uzdužno podesiva) s pretincem i 2 USB utičnice pozadi
+- Kožna ručica ručne kočnice i mjenjača
+- Kožom presvučeni višefunkcijski upravljač s lopticama za mijenjanje brzina
+- Džepovi za pohranu na naslonima prednjih sjedišta
+- Osvjetljeni rukavac za pohranu sprijeda
+- Crne krovne šine
+
+Vanjska oprema:
+- Crne krovne šine
+- Naplatci 6J x 16" "Nottingham" Alloy — standardno (gume 205/60 R16)
+- Opcija: 6,5J x 17" "Bangelore" Alloy (dio paketa, gume 205/55 R17)
+
+Opcijska oprema (Life):
+- 10" Digital Cockpit Pro (dio paketa)
+- Discover Media navigacija 8" s Wireless App-Connect i glasovnom kontrolom (dio paketa)
+- Wireless App-Connect (dio paketa)
+- Kamera za vožnju unatrag (dio paketa)
+- Park Assist s parkirnim senzorima (dio paketa)
+- IQ.LIGHT — LED matrix prednja svjetla (dio paketa)
+- Dinamična LED stražnja kombinirana svjetla s smjerokaz signalom (dio paketa)
+- Adaptive Cruise Control ACC stop & go (dio paketa)
+- IQ Drive paket: Lane Assist, Front Assist (autonomno kočenje), ACC, nadzor pješaka
+- Comfort Park paket: Keyless Access & Start, Park Assist, kamera za vožnju unatrag
+- Prikolično kuke (opcija)
+
+---
+
+Style 1.0 TSI 85 kW DSG (Style razina opreme)
+Unutrašnjost:
+- 10" Digital Cockpit Pro s višestrukim profilima prikaza — standardno
+- Radio "Composition Media" s 10" Digital Cockpit Pro, 6 zvučnika, induktivno punjenje
+- 2x USB-C sprijeda + 2x USB-C punjači pozadi
+- Climatronic 2-zonska klima
+- Sport Comfort sjedala sprijeda
+- Ambijentalna rasvjeta
+- Krom dekorativni okviri za infotainment, ventilacijske otvore i selektor mjenjača
+- LED unutarnja rasvjeta s LED svjetlima za čitanje
+- Osvjetljenje u prostoru za noge sprijeda
+- Kožna ručica ručne kočnice i mjenjača
+- Kožom presvučeni višefunkcijski upravljač s lopticama za mijenjanje brzina
+- Srebrne anodizirne krovne šine
+
+Vanjska oprema:
+- Naplatci 6,5J x 17" "Manila" Black dijamantski — standardno (gume 205/55 R17)
+- Krom obrubi bočnih prozora
+- LED prednja svjetla (standardno)
+
+Sigurnosni sustavi:
+- Parkirni senzori sprijeda i straga — standardno
+- Light Assist (automatska kontrola dalekih svjetala) — standardno
+- Sustav praćenja pješaka — standardno
+- Multi-function sensor — standardno
+- Automatsko zatamnjivanje unutarnjeg retrovizora — standardno
+- Tempomat s ograničivačem brzine — standardno
+
+Opcijska oprema (Style):
+- Opcija: 7J x 18" "Cologne" Dark Graphite dijamantski naplatci (dio Design Styling paketa)
+- Design Styling paket: 18" Cologne naplatci, obloga sjedala "Mistral", privacy glass, crna zrcala
+- Grijana prednja sjedala (dio paketa)
+- Discover Media navigacija s Wireless App-Connect i glasovnom kontrolom (opcija)
+- Adaptive Cruise Control ACC stop & go (dio paketa)
+- IQ Drive paket: Lane Assist, Front Assist, ACC, nadzor pješaka
+- Prikolično kuke (opcija)
+
+---
+
+R-Line 1.0 TSI 85 kW DSG (R-Line razina opreme)
+Unutrašnjost:
+- 10" Digital Cockpit Pro — standardno
+- Radio "Composition Media" s 10" Digital Cockpit Pro, 6 zvučnika, induktivno punjenje
+- Climatronic 2-zonska klima
+- Sport Comfort sjedala sprijeda
+- Ambijentalna rasvjeta
+- Crni strop (Black headliner)
+- Pedali od poliranog nehrđajućeg čelika
+- Krom obrubi bočnih prozora
+
+Vanjska oprema:
+- Prednji pragovi s logotipom "R-Line"
+- Sportski branik u boji karoserije
+- Crne krovne šine
+- Naplatci 6,5J x 17" "Coventry" Alloy — standardno (gume 205/55 R17)
+- Zatamnjena stakla pozadi (privacy glass) — standardno (dio Black Style paketa)
+- IQ.LIGHT — LED matrix prednja svjetla — standardno
+- 3D LED stražnja kombinirana svjetla s dinamičnim smjerokaz signalom — standardno
+
+Sigurnosni sustavi (isti kao Style, sve standardno):
+- Parkirni senzori sprijeda i straga
+- Light Assist, Multi-function sensor
+- Automatsko zatamnjivanje unutarnjeg retrovizora
+- Tempomat s ograničivačem brzine
+
+Opcijska oprema (R-Line):
+- 7J x 18" "York" Black dijamantski naplatci (dio Black Styling paketa)
+- Black Styling paket: crni naplatci York 18", crna zrcala, crne krovne šine, crni ukrasni ulozi, privacy glass
+- Grijana prednja sjedala (dio paketa)
+- Discover Media navigacija s Wireless App-Connect i glasovnom kontrolom (opcija)
+- Adaptive Cruise Control ACC stop & go (dio paketa)
+- IQ Drive paket
+- Prikolično kuke (opcija)
+
+---
+
+NAPLATCI
+
+6J x 16" čelični — standardni na T-Cross 70 kW (gume 205/60 R16)
+6J x 16" "Nottingham" Alloy — standardni na T-Cross 85 kW DSG i Life (gume 205/60 R16)
+6,5J x 17" "Bangelore" Alloy — opcija na Life (dio paketa, gume 205/55 R17)
+6,5J x 17" "Manila" Black dijamantski — standardni na Style (gume 205/55 R17)
+7J x 18" "Cologne" Matt Dark Graphite dijamantski — opcija na Style (dio Design paketa, gume 215/45 R18)
+6,5J x 17" "Coventry" Alloy — standardni na R-Line (gume 205/55 R17)
+7J x 18" "York" Black dijamantski — opcija na R-Line (dio Black Style paketa, gume 215/45 R18)
+
+---
+
+JAMSTVO I SERVIS
+
+- Jamstvo: 3 godine / 120.000 km
+- Plan servisa: 3 godine / 45.000 km
+- Antikorozijsko jamstvo: 12 godina
+- Servisni intervali: svakih 15.000 km
+
+---
+
+NAPOMENA
+
+Navedeni podaci vrijede za model year 2025, prema specifikacijskom listu iz veljače 2025.
+Dokument se odnosi na južnoafričko tržište (Volkswagen South Africa) — pojedine opcije,
+paketi i razine opreme mogu se razlikovati za hrvatsko tržište. Tehnički podaci (potrošnja,
+dimenzije) odnose se na standardna vozila. Stvarna potrošnja ovisi o načinu vožnje,
+opterećenju i uvjetima na cesti. Za najnovije podatke za hrvatsko tržište savjetujte se s
+ovlaštenim VW zastupnikom u Hrvatskoj.

@@ -1,0 +1,188 @@
+VOLKSWAGEN ID.4 — TEHNIČKI PODACI I OPIS MODELA
+
+Izvor: Volkswagen AG, službeni press materijal (volkswagen-newsroom.com)
+
+---
+
+OPĆI OPIS
+
+Volkswagen ID.4 prvi je potpuno električni SUV marke Volkswagen i prvi električni svjetski automobil koji VW proizvodi istovremeno u Europi, Kini i SAD-u. Temeljen je na MEB platformi (Modularni električni pogon) koja mu omogućuje prostran unutarnji prostor unatoč kompaktnim vanjskim dimenzijama. ID.4 pozicioniran je u najvećem svjetskom tržišnom segmentu — kompaktnih SUV-ova.
+
+---
+
+DOSTUPNE VARIJANTE I POGON
+
+ID.4 Pro Performance
+- Motor: Permanentni sinkroni motor (PSM) na stražnjoj osovini
+- Snaga: 150 kW (204 KS)
+- Maksimalni okretni moment: 310 Nm
+- Ubrzanje 0–100 km/h: 8,5 sekundi
+- Maksimalna brzina: 160 km/h (elektronski ograničena)
+- Baterija (neto): 77 kWh
+- Doseg (WLTP): do 531 km
+- Kombinirana potrošnja (WLTP): 16,4 kWh/100 km
+- CO2 emisije: 0 g/km
+- Pogon: stražnji
+
+ID.4 Pro 4MOTION (AWD)
+- Motor sprijeda: Asinkroni motor (ASM), 80 kW
+- Motor straga: Permanentni sinkroni motor (PSM), 150 kW
+- Ukupna snaga sustava: 195 kW (265 KS)
+- Ubrzanje 0–100 km/h: 6,9 sekundi
+- Maksimalna brzina: 180 km/h (elektronski ograničena)
+- Baterija (neto): 77 kWh
+- Doseg (WLTP): do 512 km
+- Kombinirana potrošnja (WLTP): 17,1 kWh/100 km
+- CO2 emisije: 0 g/km
+- Pogon: 4MOTION (sva četiri kotača)
+
+---
+
+DIMENZIJE
+
+Duljina: 4.584 mm (Pro Performance) / 4.582 mm (4MOTION)
+Širina: 1.852 mm
+Visina: 1.634 mm (Pro Performance) / 1.632 mm (4MOTION)
+Međuosovinski razmak: 2.771 mm (Pro Performance) / 2.769 mm (4MOTION)
+Koeficijent otpora zraka (Cd): 0,28
+Slobodni prostor pod vozilom: 160 mm
+Prtljažnik: 543 litara
+Prtljažnik (sklopljeni stražnji nasloni): 1.575 litara
+Krovni nosači: standardni
+Maksimalno opterećenje krova: 75 kg
+
+---
+
+BATERIJA I PUNJENJE
+
+Kapacitet baterije: 77 kWh (neto)
+Smještaj baterije: ispod poda putničkog prostora (nizak težišni centar)
+Baterijska garancija: najmanje 70% kapaciteta nakon 8 godina ili 160.000 km
+
+Maksimalna snaga DC brzog punjenja: 135 kW
+Maksimalna snaga AC punjenja (kućni zidni punjač): 11 kW
+
+Punjenje od 5% do 80% (DC 135 kW): oko 36 minuta
+Punjenje za 100 km dosega (DC 135 kW, od 5% SOC): 6 minuta
+
+Punjenje od 5% do 80%:
+- ID.4 Pro Performance: napuni za 397 km dosega za 30 minuta
+- ID.4 Pro 4MOTION: napuni za 337 km dosega za 30 minuta
+
+Plug & Charge funkcija: automatska autentifikacija i naplata bez kartice ili aplikacije na kompatibilnim DC stanicama (Ionity, Aral, bp, Enel, EON, Iberdrola, Eviny).
+
+We Charge sustav: pristup mreži od više od 300.000 javnih punionih točaka u Europi.
+
+---
+
+UČINKOVITOST ELEKTROMOTORA
+
+Učinkovitost PSM motora: više od 90% u gotovo svim uvjetima vožnje
+Masa elektromotora (uključujući mjenjač i elektroniku): oko 90 kg
+Mjenjač: dvostupanjski jednobrzinaski mjenjač s diferencijalnom
+
+Rekuperacija energije:
+- U položaju D vozilo klizi (koasting) pri otpuštanju gasa
+- Pri kočenju aktivira se rekuperacija; motor vraća energiju u bateriju
+- Do 0,25 g usporenja preuzima električni sustav; iznad toga aktiviraju se hidrauličke kočnice
+- Eco asistent: analizira navigacijske podatke i prometne znakove te predlaže optimalni trenutak za otpuštanje gasa
+
+---
+
+PODVOZJE I UPRAVLJANJE
+
+Prednja osovina: McPherson ovjes
+Stražnja osovina: Peterostruko zglobno ovjes (subframe nosi pogonske komponente)
+Raspodjela težine: blizu idealnih 50:50
+Opcija: progresivno upravljanje
+Opcija: adaptivno podvozje DCC (Sport paket Plus)
+Dostupni profili vožnje: Eco, Comfort, Sport, Individual (+ Traction za 4MOTION verziju)
+
+Naplatci: 19 do 21 inča (čelični 19" standardni)
+Dostupne opcije naplataka: Hamar (dijamant, Dark Graphite ili Black), Drammen 20", Narvik 21"
+
+---
+
+VANJSKI DIZAJN
+
+Koeficijent otpora zraka: 0,28
+Posebnosti dizajna:
+- Ravna prednja maska bez rešetke hladnjaka (ulaz zraka u donjem dijelu)
+- Flush (u razini karoserije) električno otključani kvake vrata
+- Aerodinamički oblikovani naplatci s ravnom površinom
+- Krovni spojler i 3D LED stražnja svjetla pomažu niskom Cd
+- IQ.Light LED matrix prednja svjetla (opcija): 18 pojedinačnih LED-ica, 11 se može individualno gasiti i prigušivati
+- 3D LED stražnja svjetla s dinamičnim žmigavcima (opcija)
+- Dnevna svjetla u obliku saća
+- Pri otvaranju vrata ogledalo projicira VW logo u obliku saća na tlo
+
+---
+
+UNUTRAŠNJOST
+
+Sjedišta: napredni materijali bez životinjskih kožnih prekrivača; standardna sjedala u tkanini
+Opcija: ergoActive sjedala s 12 električnih podešavanja, lumbalna podrška, masažna funkcija
+Ambijentalna rasvjeta: 10 boja (standardno), 30 boja (opcija)
+Klimatizacija: Air Care Climatronic (1-zona standardno), 2-zona (Comfort paket), 3-zona (Comfort Plus paket)
+Opcija: toplinška pumpa za veću učinkovitost grijanja/hlađenja
+
+Instrumentna ploča:
+- Zaslonić pred vozačem: 5,3 inča
+- Središnji zaslon osjetljiv na dodir: 10 inča (standardno), 12 inča (Plus infotainment paket)
+- Glasovni asistent "Hello ID." — prepoznaje slobodne formulacije, online i offline
+- Opcija: AR Head-up Display (projicira na vjetrobransko staklo)
+
+ID. Light traka: ispod vjetrobranskog stakla, vizualno signalizira status vozila bojama
+
+Srednja konzola: integrirana držala čaša, prostor za mobitel s bežičnim punjenjem (Comfort paket), 2x USB-C straga (Comfort paket)
+
+Panoramski krov: opcija
+
+---
+
+SIGURNOST
+
+Standardni sigurnosni sustavi:
+- Lane Assist (zadržavanje u voznom traku)
+- Front Assist s automatskim kočenjem u gradu
+- Kočenje pri skretanju prema nadolazećim vozilima
+- Podrška pri izbjegavanju prepreka (swerve support)
+- Akustički Park Distance Control s automatskim kočenjem pri manevru
+- Ograničivač brzine
+- V2X (vehicle-to-everything): komunikacija s drugim vozilima i infrastrukturom do 800 metara; upozorenja u milisekundama
+
+Opcijski sigurnosni sustavi (Assist paket):
+- Alarm protiv krađe s nadzorom unutrašnjosti
+- Proaktivni sustav zaštite putnika
+- Park Assist Plus s funkcijom pamćenja (do 5 parkirnih manevara)
+- Stražnja kamera
+- Keyless Access
+- Travel Assist s rojevima podataka (swarm data)
+- Blind Spot Monitoring (praćenje mrtvog kuta)
+- Rear Traffic Alert (upozorenje na vozila pri izlasku iz parkirnog mjesta)
+
+---
+
+CONECTIVITET I INFOTAINMENT
+
+We Connect Start: online navigacija, informacije o prometu u stvarnom vremenu, praćenje stanica za punjenje, daljinsko upravljanje punjenjem i klimatizacijom.
+
+App Connect: Android Auto, Apple CarPlay, Mirror Link
+Opcija: navigacijski sustav Discover Pro (10 ili 12 inča)
+Opcija: zvučni sustav s pojačalom (6 zvučnika i subwoofer)
+Bežično punjenje mobitela u konzoli (Comfort paket)
+OTA (Over-the-Air) ažuriranja softvera
+
+---
+
+ODRŽIVOST
+
+ID.4 koji se isporučuju u Europi imaju ugljično neutralnu bilancu pri isporuci.
+Proizvodnja u tvornicama u Zwickauu i Emdenu koristi zelenu struju.
+Baterija na kraju životnog vijeka može se koristiti u second-life projektima ili reciklirati kao izvor sirovina.
+
+---
+
+NAPOMENA
+
+Svi navedeni tehnički podaci odnose se na ID.4 Pro Performance i Pro 4MOTION verzije za njemačko tržište. Specifikacije za hrvatska tržište mogu se razlikovati. Za najnovije podatke savjetujte se s ovlaštenim VW zastupnikom u Hrvatskoj.
